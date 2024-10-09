@@ -251,8 +251,8 @@ const bigProjects = {
     },
     {
       image: require("./assets/images/jobifi.png"),
-      projectName: "Jobifi",
-      projectDesc: "Jobifi is an innovative job search platform that connects job seekers with employers. It simplifies the hiring process by offering advanced search filters, personalized job recommendations, and an intuitive user interface. The platform provides job alerts, company reviews, and the ability to apply for jobs directly through the website, helping users find the perfect job opportunities with ease.",
+      projectName: "Jobfii",
+      projectDesc: "Jobfii is an innovative job search platform that connects job seekers with employers. It simplifies the hiring process by offering advanced search filters, personalized job recommendations, and an intuitive user interface. The platform provides job alerts, company reviews, and the ability to apply for jobs directly through the website, helping users find the perfect job opportunities with ease.",
       footerLink: [
         {
           name: "Visit Website",
